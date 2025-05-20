@@ -14,4 +14,4 @@ Today, I am analyzing in healthcare analytics, leveraging data engineering, visu
 🎯 Here’s my biggest lesson for anyone in data analytics:
 Don’t just manipulate data—understand the business behind it. That’s what makes an analyst truly valuable.
 ## 📸 Dashboard Preview
-![Dashboard Preview](picture/Healthcare workforce mental health.png) 
+!(PICTURE/Healthcare workforce mental health.png)
